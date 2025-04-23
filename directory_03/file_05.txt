@@ -1,3 +1,2 @@
 Hello this is Venky,
-
 I am learning devops
